@@ -81,4 +81,3 @@ class SnakeGame:
 game = SnakeGame()
 game.move_snake()
 game.window.mainloop()
-print('Game Over!')
